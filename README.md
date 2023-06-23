@@ -1,6 +1,3 @@
-# eaty_zumju
-
-A new Flutter project.
 
 ## 주문 관리
 
